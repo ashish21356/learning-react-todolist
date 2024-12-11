@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+th,
+td {
+  border-bottom: 1px solid black;
+  border-collapse: collapse;
+  padding: 1%;
+  text-align: center;
+  border-radius: 5px;
+}
+table {
+  margin-top: 20px; /* Adjust the value as needed */
+  border-collapse: collapse;
+  width: 80%;
+}
+.button {
+  padding: 5px 10px;
+  margin: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: beige;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid yellowgreen;
+}
+.button-Not-Complete {
+  border: 1px solid red;
+}
+button:hover {
+  background-color: rgb(211, 211, 127);
+}
+input {
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid yellowgreen;
+  background-color: beige;
+}
+h1 {
+  margin: 20px 0px;
+  padding: 20px;
+  text-shadow: 20px;
+  background-color: beige;
+  width: 80%;
+}
